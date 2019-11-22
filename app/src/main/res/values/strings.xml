@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="player1">Yugi</string>
+    <string name="player1lp">8000 LP</string>
+    <string name="card1">2500</string>
+    <string name="card2">2000</string>
+    <string name="card3">300</string>
+    <string name="new_game">New Game</string>
+    <string name="card4">3000</string>
+    <string name="card5">2200</string>
+    <string name="card6">600</string>
+    <string name="player2lp">8000 LP</string>
+    <string name="player2">Kaiba</string>
+</resources>
